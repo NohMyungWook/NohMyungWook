@@ -5,7 +5,7 @@
 
 <!-- Title -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+I'm+MyungWook+Noh;Junior+Back-end+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=40&pause=1000&color=111111&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+I'm+MyungWook+Noh;Junior+Back-end+Developer)](https://git.io/typing-svg)
 
 <br>
 
