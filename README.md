@@ -38,6 +38,8 @@
 <span><img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring"></span>
 <span><img src="https://img.shields.io/badge/Spring Boot-000000?style=flat-square&logo=Spring Boot"></span>
 <span><img src="https://img.shields.io/badge/Spring Security-000000?style=flat-square&logo=Spring Security"></span>
+<span><img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=Redis"></span>
+<span><img src="https://img.shields.io/badge/Gradle-000000?style=flat-square&logo=Gradle"></span>
 
 ### DevOps
 <span><img src="https://img.shields.io/badge/Github Actions-000000?style=flat-square&logo=Github Actions"></span>
